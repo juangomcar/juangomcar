@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a passionate developer with a strong foundation in software development, databases, and web technologies. I enjoy creating innovative projects that solve real-world problems and push the boundaries of technology.<br><br>My Strengths:<br>Software Development: Proficient in Python, Java, C#, and C, with a solid understanding of design patterns, SOLID principles, and scalable architecture design.<br>Database Management: Experienced in SQL, data storage, and database administration, ensuring efficient and reliable data handling.<br>Web Development: Skilled in building responsive and functional web applications using JavaScript, HTML, and modern frameworks.<br>I thrive on challenges and love working on projects that combine creativity, problem-solving, and impactful solutions.
 
 
