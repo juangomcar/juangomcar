@@ -1,13 +1,12 @@
 # About Me:
 
-I’m a passionate developer blending **software engineering, data science, and artificial intelligence** to create technology that actually thinks. My work focuses on transforming data into intelligent systems, from full-stack apps to predictive and generative models. I love building things that learn, systems where analytics meet creativity, turning code and data into smart, autonomous solutions.
-<br><br>
+I’m a passionate developer with a strong foundation in **software development, databases, web technologies, machine learning, and deep learning**. I enjoy creating innovative projects that solve real-world problems and push the boundaries of technology. I love building systems that learn, where analytics meet creativity, turning code and data into solutions that adapt, evolve, and make an impact.
 
-**Core Skills**<br>
-**Software Development:** Python, Java, C#, and C — building scalable and high-performance solutions with solid design principles.<br>
+**My Strengths**<br>
+**Software Development:** Python, Java, C#, and C, building scalable and high-performance solutions with solid design principles.<br>
 **Full-Stack & Cloud:** Modern web apps with Angular, React, Node.js, and cloud deployment through Azure, Firebase, and Docker.<br>
 **Machine Learning & Deep Learning:** Expert in CNNs, RNNs/LSTMs, GANs, and transformers. Experienced in attention mechanisms, embeddings, and transfer learning using **TensorFlow, PyTorch, and Keras**.<br>
-**Data Science:** Skilled in preprocessing, feature engineering, and model optimization — **from one-hot encoding to cross-validation and ROC analysis**.<br><br>
+**Data Science:** Focused on the quantitative aspects of ML, applying **statistical inference**, **dimensionality reduction (PCA, t-SNE)**, and **optimization algorithms** to extract structure from complex datasets and maximize model interpretability.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/juanfe_gomez123/)
