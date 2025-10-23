@@ -19,30 +19,23 @@ I’m a passionate developer with a strong foundation in **software development,
 ## Certifications
 
 <p align="center">
-  <!-- Cisco Networking Technician Career Path -->
   <a href="https://www.credly.com/badges/9eb2c565-6e9b-4cf7-aa63-9fd6d342adb2/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/3da6707a-19c3-4e38-b1c8-3cb037c28e9b/blob.png" width="140" alt="Cisco Network Technician Career Path">
+    <img src="https://img.shields.io/badge/Cisco%20Network%20Technician%20Career%20Path-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Network Technician Career Path">
   </a>
-
-  <!-- Cisco Introduction to Packet Tracer -->
   <a href="https://www.credly.com/badges/239abd55-2d3c-4bd2-af9b-6e2f4f3c47b7/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/ed7bba1a-c14c-4e8a-9a9f-3c69d0e8a5f4/blob.png" width="140" alt="Cisco Introduction to Packet Tracer">
+    <img src="https://img.shields.io/badge/Cisco%20Introduction%20to%20Packet%20Tracer-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Introduction to Packet Tracer">
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.credly.com/users/juan-felipe-gomez-carreno" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20on%20Credly-%231ba0d7?style=for-the-badge&logo=cisco&logoColor=white" alt="Credly Profile">
+    <img src="https://img.shields.io/badge/View%20All%20on%20Credly-00457C?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile">
   </a>
 </p>
 
 <p align="center">
-  <sub>
-    <i>Verified certifications from <b>Cisco Networking Academy</b> — including the <b>Network Technician Career Path</b> and <b>Introduction to Packet Tracer</b>.<br>
-    More badges and credentials available on <a href="https://www.credly.com/users/juan-felipe-gomez-carreno" target="_blank">my Credly profile</a>.</i>
-  </sub>
+  <sub><i>
+  Verified certifications from <b>Cisco Networking Academy</b> — including <b>Network Technician Career Path</b> and <b>Introduction to Packet Tracer</b>.<br>
+  More available on <a href="https://www.credly.com/users/juan-felipe-gomez-carreno" target="_blank">my Credly profile</a>.
+  </i></sub>
 </p>
-
 
 
 # GitHub Stats:
