@@ -30,14 +30,6 @@ I’m a passionate developer with a strong foundation in **software development,
   </a>
 </p>
 
-<p align="center">
-  <sub><i>
-  Verified certifications from <b>Cisco Networking Academy</b> — including <b>Network Technician Career Path</b> and <b>Introduction to Packet Tracer</b>.<br>
-  More available on <a href="https://www.credly.com/users/juan-felipe-gomez-carreno" target="_blank">my Credly profile</a>.
-  </i></sub>
-</p>
-
-
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=juangomcar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=juangomcar&theme=gotham&hide_border=false)<br/>
