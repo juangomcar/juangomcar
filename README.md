@@ -10,7 +10,7 @@ I’m a passionate developer with a strong foundation in **software development,
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/juanfe_gomez123/)
-[![LinkedIn](https://www.linkedin.com/in/juan-felipe-g%C3%B3mez-427bb8320/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-g%C3%B3mez-427bb8320/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=jf.gomez4224@gmail.com)
 
 # Tech Stack:
